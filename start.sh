@@ -1,1 +1,1 @@
-eval guicorn app:app
+eval gunicorn app:app
