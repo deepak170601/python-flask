@@ -1,2 +1,2 @@
 eval python init_db.py
-eval flask run
+eval python app.py

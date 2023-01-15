@@ -89,5 +89,6 @@ def delete(id):
     return redirect(url_for('index'))
 
 if __name__ == "__main__" :
+    print("hi")
     app.run(host="44.233.151.27")
 
