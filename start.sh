@@ -1,2 +1,1 @@
-eval python init_db.py
-eval python app.py
+eval guicorn app:app
