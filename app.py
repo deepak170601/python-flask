@@ -90,5 +90,5 @@ def delete(id):
 
 if __name__ == "__main__" :
     print("hi")
-    app.run(host="44.233.151.27")
+    app.run(host="0.0.0.0")
 
